@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Felipe Ferreira ✋
 
-[![Blog](https://img.shields.io/website-up-down-green-redred/http/monip.org.svg?label=linkedin.com&style=for-the-badge&url=https://linkedin.com/in/felipe-paz-lippe/website-up-down-green)](https://linkedin.com/in/felipe-paz-lippe/)
+[![Blog](https://img.shields.io/website-up-down-blue-redred/http/monip.org.svg?label=linkedin.com&style=for-the-badge&url=https://linkedin.com/in/felipe-paz-lippe/website-up-down-green)](https://linkedin.com/in/felipe-paz-lippe/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/eulippe_pazz/)
 
