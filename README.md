@@ -25,3 +25,5 @@ problemas, com foco em atender às necessidades dos usuários e garantir a funci
 
 ## Último projeto:
 - [Cardápio integrado com whatsApp - Html, Css, Js, Boostrap e APIs](https://cardapioonlinelippepazz.000webhostapp.com/#)<br/>
+- [Interface de listagem de dados-  React, React Query, Typescript e TailwindCSS](https://www.linkedin.com/feed/update/urn:li:activity:7167021360605609985/) <br/>
+- [Projeto de formulário completo que permite o cadastro de um produto e conectarmos o usuário a uma ou mais categorias e muito mais- React, React Query, React Hook Form, TailwindCSS e shadcn/ui.]
