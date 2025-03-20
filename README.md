@@ -24,6 +24,6 @@ Sou desenvolvedor de software com sólida experiência em projetos pessoais e ac
 problemas, com foco em atender às necessidades dos usuários e garantir a funcionalidade dos sistemas. Busco agora uma oportunidade para aplicar minhas habilidades em um ambiente profissional, contribuindo para o desenvolvimento de soluções inovadoras e de alta qualidade.
 
 ## Último projeto:
-- [Cardápio integrado com whatsApp - Html, Css, Js, Boostrap e APIs](https://cardapioonlinelippepazz.000webhostapp.com/#)<br/>
+- [Cardápio integrado com whatsApp - Html, Css, Js, Boostrap e APIs](https://menu-omega-six.vercel.app/)<br/>
 - [Interface de listagem de dados-  React, React Query, Typescript e TailwindCSS](https://www.linkedin.com/feed/update/urn:li:activity:7167021360605609985/) <br/>
 - [Projeto de formulário completo que permite o cadastro de um produto e conectarmos o usuário a uma ou mais categorias e muito mais- React, React Query, React Hook Form, TailwindCSS e shadcn/ui.]
